@@ -1,0 +1,52 @@
+[
+   {
+       "question": "O que é Svelte?",
+       "options": [
+           "Um framework JavaScript",
+           "Uma ferramenta de compilação",
+           "Um compilador",
+           "Uma biblioteca de testes"
+       ],
+       "correctIndex": 2
+   },
+   {
+       "question": "Qual extensão de arquivo é comumente usada para componentes Svelte?",
+       "options": [
+           ".js",
+           ".svelte",
+           ".html",
+           ".css"
+       ],
+       "correctIndex": 1
+   },
+   {
+       "question": "Qual é a principal vantagem do Svelte em relação a outros frameworks?",
+       "options": [
+           "Melhor desempenho em tempo de execução",
+           "Melhor organização de código",
+           "Mais recursos integrados",
+           "Comunidade de desenvolvedores maior"
+       ],
+       "correctIndex": 0
+   },
+   {
+       "question": "Qual função de ciclo de vida é usada para executar código quando um componente Svelte é criado?",
+       "options": [
+           "onMount",
+           "onCreate",
+           "onInit",
+           "onStart"
+       ],
+       "correctIndex": 0
+   },
+   {
+       "question": "Qual operador lógico é usado para negar uma expressão em Svelte?",
+       "options": [
+           "&&",
+           "||",
+           "!",
+           "&"
+       ],
+       "correctIndex": 2
+   }
+]
